@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img height="200" width="200" src="https://media.baamboozle.com/uploads/images/256790/1625161077_55954_gif-url.gif"> 
+<img height="400" width="700" src="https://media.baamboozle.com/uploads/images/256790/1625161077_55954_gif-url.gif"> 
 
 - 🌱 I’m currently learning **Redux , Tailwind CSS**
 
