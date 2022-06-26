@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-png&show_icons=true&locale=en&theme=radical" alt="arnav-png" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-png&" alt="arnav-png" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-png&theme=radical" alt="arnav-png" /></p>
