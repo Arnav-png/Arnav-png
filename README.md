@@ -3,9 +3,9 @@
 
 <img height="400" width="700" src="https://media.baamboozle.com/uploads/images/256790/1625161077_55954_gif-url.gif"> 
 
-- 🌱 I’m currently learning **Redux , Tailwind CSS**
+- 🌱 I’m currently exploring **Kafka , System Design**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **arn.sh45@gmail.com**
 
